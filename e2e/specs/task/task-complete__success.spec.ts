@@ -1,5 +1,5 @@
 // spec: e2e/scenarios/task/task-complete__success.md
-// seed: e2e-tests/seed.spec.ts
+// seed: e2e/specs/seed.spec.ts
 
 import { test, expect } from '@playwright/test';
 
